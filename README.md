@@ -1,6 +1,6 @@
 # Palma Ledger
 
-[Buka web app Palma Ledger](https://hazardkt.github.io/Palma/frontend/)
+[Buka web app Palma Ledger](https://hazardkt.github.io/PPT-kode/frontend/)
 
 Saat dibuka, aplikasi berjalan dalam mode demo. Untuk terhubung ke database Supabase, silakan login terlebih dahulu.
 untuk login klik logo AR di pojok kanan atas dan gunakan:
