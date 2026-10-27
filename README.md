@@ -8,7 +8,7 @@ untuk login klik logo AR di pojok kanan atas dan gunakan:
 **email owner: palma@hotel.com**
 **password: palma123.**
 
-**email accountant: palma@accountant.com**
+**email staff: palma@admin.com**
 **password: palma321.**
 
 Palma Ledger adalah aplikasi akuntansi pendapatan kamar dan piutang usaha untuk **satu hotel**. Antarmuka saat ini dibuat dengan HTML, CSS, dan JavaScript; Supabase menyediakan autentikasi, PostgreSQL, Row Level Security (RLS), serta fungsi transaksi akuntansi.
