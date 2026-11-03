@@ -8,7 +8,7 @@ akun kasir:
 **email: palma@hotel.com**
 **password: palma123.**
 akun owner:
-**email: palma@hotel.com**
+**email: palma@owner.com**
 **password: palma123.**
 Palma Ledger adalah aplikasi akuntansi pendapatan kamar dan piutang usaha untuk **satu hotel**. Antarmuka saat ini dibuat dengan HTML, CSS, dan JavaScript; Supabase menyediakan autentikasi, PostgreSQL, Row Level Security (RLS), serta fungsi transaksi akuntansi.
 
