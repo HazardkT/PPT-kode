@@ -4,10 +4,12 @@
 
 Saat dibuka, aplikasi berjalan dalam mode demo. Untuk terhubung ke database Supabase, silakan login terlebih dahulu.
 untuk login klik logo AR di pojok kanan atas dan gunakan:
-
+akun kasir:
 **email: palma@hotel.com**
 **password: palma123.**
-
+akun owner:
+**email: palma@hotel.com**
+**password: palma123.**
 Palma Ledger adalah aplikasi akuntansi pendapatan kamar dan piutang usaha untuk **satu hotel**. Antarmuka saat ini dibuat dengan HTML, CSS, dan JavaScript; Supabase menyediakan autentikasi, PostgreSQL, Row Level Security (RLS), serta fungsi transaksi akuntansi.
 
 ## Fitur
